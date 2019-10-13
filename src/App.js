@@ -17,7 +17,7 @@ function App() {
            placeholder="Seu melhor e-mail"
            />
         </form>
-        <button type="submit">Entrar</button>
+        <button className="btn" type="submit">Entrar</button>
       </div>
     </div>
     )
